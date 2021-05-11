@@ -9,4 +9,11 @@ Here i get data from Github api and set it in RecyclerView.
 `https://api.github.com/search/repositories?q=created:>2017-10-22&sort=stars&order=desc`
 
 ## Technology used :
+* Kotlin
+* Single Activity
+* Navigation Component
+* Coroutines
 * Retrofit
+* MVVM
+* Repository Pattern
+* Picasso 
